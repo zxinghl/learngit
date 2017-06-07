@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 Git is free.
 add merge.
 test stash.
+add by otheruser.
